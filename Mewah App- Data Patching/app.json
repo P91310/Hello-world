@@ -1,0 +1,29 @@
+{
+  "id": "19f1e4ce-9917-4309-9697-5d218d04cfe3",
+  "name": "Mewah App- Data Patching",
+  "publisher": "Mewah Group",
+  "brief": "",
+  "description": "2022-08-31 Pang JW - MOSB2022-DMR-0033 - to patch Band ledger Entry",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies":[{"appId": "4ef4fe02-39f2-4670-819c-b05930fa584d","name": "Mewah Base App","publisher": "AppCentric Technologies Sdn Bhd","version": "1.0.0.2"},
+    {"appId": "4A3B9A42-AECE-439B-AD38-E0C40A43DA88","name": "ACT SST Function","publisher": "AppCentric Technologies Sdn Bhd","version": "1.0.0.0"},
+    {"appId": "8ff20200-0791-457b-8537-dcbd2fff0b8e","name": "MWH MOI Banking","publisher": "AppCentric Technologies Sdn Bhd","version": "1.0.0.0"},
+    {"appId": "D8D680B0-62F9-4672-9898-C5AA1324981C","name": "MWH Forex","publisher": "AppCentric Technologies Sdn Bhd","version": "1.0.0.0"}],  
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50001,
+    "to": 50699
+  },
+  "showMyCode": false,
+  "features":
+    "TranslationFile"
+}
